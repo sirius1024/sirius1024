@@ -1,4 +1,13 @@
 ### Hi there 👋
+- 真正的天才，必须能够让事情变得简单。
+
+### Contact me
+- Email: guotuo@outlook.com
+
+### Past and Now
+- 现在在做双活数据中心方案设计与建设
+- 以前写过很多代码，C#, Javascript, Ruby, Python, Golang
+- 未来不确定，社会缺啥我干啥
 
 <!--
 **sirius1024/sirius1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
