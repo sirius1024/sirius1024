@@ -5,8 +5,8 @@
 - Email: guotuo@outlook.com
 
 ### Past and Now 🔭
-- **现在在做双活数据中心方案设计与建设**
 - *以前写过很多代码，C#, Javascript, Ruby, Python, Golang*
+- **后来做双活数据中心方案设计与建设，已经做完了，现在在设计云产品**
 - 未来不确定，社会缺啥我干啥
 
 <!--
