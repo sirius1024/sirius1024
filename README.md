@@ -9,6 +9,8 @@
 - **后来做双活数据中心方案设计与建设，已经做完了，现在在设计云产品**
 - 未来不确定，社会缺啥我干啥
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=sirius1024&show_icons=true)](https://github.com/sirius1024)
+
 <!--
 **sirius1024/sirius1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
