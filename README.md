@@ -1,13 +1,13 @@
 ### Hi there 👋
-- 真正的天才，必须能够让事情变得简单。
+- A true genius must be able to make things simple.
 
 ### Contact me 💬
 - Email: guotuo1024@gmail.com
 
 ### Past and Now 🔭
-- *🐨以前写过很多代码，C#, Javascript, Ruby, Python, Golang*
-- *✨后来做双活数据中心方案设计与建设，已经做完了*
-- **💡现在在做混合云相关的产研工作**
+- *🐨 I've written a lot of code in the past, including C#, JavaScript, Ruby, Python, and Golang.*
+- *✨ Later design and construction of the active-active data center solution, and that's already completed.*
+- **💡 Now, engaged in product research and development related to hybrid cloud and hybrid AI.**
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=sirius1024&show_icons=true&include_all_commits=true)](https://github.com/sirius1024)
 
