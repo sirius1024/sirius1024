@@ -2,12 +2,12 @@
 - 真正的天才，必须能够让事情变得简单。
 
 ### Contact me 💬
-- Email: guotuo@outlook.com
+- Email: guotuo1024@gmail.com
 
 ### Past and Now 🔭
 - *🐨以前写过很多代码，C#, Javascript, Ruby, Python, Golang*
 - *✨后来做双活数据中心方案设计与建设，已经做完了*
-- **💡现在在做私有云相关的产研工作**
+- **💡现在在做混合云相关的产研工作**
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=sirius1024&show_icons=true&include_all_commits=true)](https://github.com/sirius1024)
 
